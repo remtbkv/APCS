@@ -1,2 +1,1 @@
-# APCS
- TJHSST APCS (2022-2023)
+Labs from 2022-2023 TJHSST APCS course
